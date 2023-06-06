@@ -13,3 +13,6 @@ MESSAGING_SENDER_ID=
 APP_ID=
 DATABASE_URL=https://diabetic-retinopathy-blindness.firebaseio.com
 ```
+
+uses signed s3 url to upload images
+config in `config/server.js`
